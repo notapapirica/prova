@@ -1,0 +1,6 @@
+Riga 27: la classe AMSTB.AMST del controllo AMSRagSociale non era una classe di controllo caricata.
+Riga 47: la classe AMSTB.AMST del controllo AMST1 non era una classe di controllo caricata.
+Riga 67: la classe VSFlex7LCtl.VSFlexGrid del controllo fg non era una classe di controllo caricata.
+Riga 187: la classe ARButtonCtrl.ARButton del controllo ARFiltri non era una classe di controllo caricata.
+Riga 212: la classe ARButtonCtrl.ARButton del controllo ARCancella non era una classe di controllo caricata.
+Riga 237: la classe ARButtonCtrl.ARButton del controllo ARSalva non era una classe di controllo caricata.
